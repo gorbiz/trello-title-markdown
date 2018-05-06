@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="1280"
+   viewBox="0 0 338.66665 338.66666"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="/home/gorbiz/thing/trello-markdown-title/icon128.png"
+   inkscape:export-xdpi="19.200001"
+   inkscape:export-ydpi="19.200001"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="icon.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="937.20912"
+     inkscape:cy="626.71481"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     width="1024px"
+     inkscape:snap-grids="true"
+     inkscape:window-width="1916"
+     inkscape:window-height="1040"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0"
+     inkscape:snap-page="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4522"
+       enabled="true"
+       empspacing="32"
+       originx="-4.4544566e-06"
+       originy="3.0079642e-14" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="main"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.4544568e-6,41.666663)"
+     style="display:inline">
+    <rect
+       id="rect4520"
+       width="253.99998"
+       height="254.00002"
+       x="42.333332"
+       y="0.66667032"
+       style="fill:#44ade7;fill-opacity:1;stroke-width:0.68899494" />
+    <rect
+       style="fill:#9acee6;fill-opacity:1;stroke-width:1.04502046"
+       id="rect4524"
+       width="101.6"
+       height="220.13333"
+       x="59.26667"
+       y="17.600012" />
+    <rect
+       style="fill:#9acee6;fill-opacity:1;stroke-width:0.86950952"
+       id="rect4524-3"
+       width="101.60001"
+       height="152.39999"
+       x="177.79999"
+       y="17.600004" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.5317688px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61329424"
+       x="30.369001"
+       y="247.78751"
+       id="text6149-3"><tspan
+         sodipodi:role="line"
+         id="tspan6147-2"
+         x="30.369001"
+         y="269.49237"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:117.75248718px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';stroke-width:0.61329424" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="derp"
+     style="display:inline"
+     transform="translate(-2.4544568e-6,169.33333)">
+    <path
+       style="opacity:0.75;stroke-width:1.06383336;image-rendering:optimizeSpeed"
+       d="m 67.513321,-29.013346 v -72.340644 h 21.276664 l 21.276695,26.595817 21.27668,-26.595817 h 21.27666 v 72.340644 h -21.27666 v -41.489531 l -21.27668,26.595853 -21.276695,-26.595853 v 41.489531 z"
+       id="path6222"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.75;stroke-width:1.06382978;image-rendering:optimizeSpeed"
+       d="m 228.60001,-28.922803 -31.91492,-35.106358 h 21.2766 v -37.234049 h 21.2766 v 37.234049 h 21.2766 z"
+       id="path4593"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
