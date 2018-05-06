@@ -14,11 +14,11 @@
    viewBox="0 0 338.66665 338.66666"
    version="1.1"
    id="svg8"
-   inkscape:export-filename="/home/gorbiz/thing/trello-markdown-title/icon128.png"
-   inkscape:export-xdpi="19.200001"
-   inkscape:export-ydpi="19.200001"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="icon.svg">
+   inkscape:export-filename="/home/gorbiz/thing/trello-markdown-title/icon48.png"
+   inkscape:export-xdpi="3.5999999"
+   inkscape:export-ydpi="3.5999999"
+   sodipodi:docname="icon.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="937.20912"
-     inkscape:cy="626.71481"
+     inkscape:zoom="0.5"
+     inkscape:cx="613.24667"
+     inkscape:cy="620.42334"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -43,7 +43,7 @@
      inkscape:window-y="18"
      inkscape:window-maximized="0"
      inkscape:snap-page="false"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      fit-margin-top="0"
      fit-margin-left="0"
