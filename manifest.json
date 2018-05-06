@@ -1,6 +1,6 @@
 {
   "name": "Trello card title Markdown",
-  "description": "Add basic support for Markdown in Trello card titles; **bold**, *emphasized*, `code` & ~~strikethrough~~",
+  "description": "Add basic support for Markdown in Trello card titles: **bold**, *emphasized*, `code` & ~~strikethrough~~.",
   "version": "1.0.0",
   "manifest_version": 2,
   "browser_action": { },
