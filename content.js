@@ -1,12 +1,3 @@
-// ==UserScript==
-// @name Trello card title Markdown
-// @version 0.4.0
-// @homepage https://gist.github.com/gorbiz/6062481
-// @description Add support for bold and emphasized Markdown in card titles
-// @match https://trello.com/b/*
-// @match http://trello.com/b/*
-// ==/UserScript==
-
 function markdownAll() {
   var cards = document.getElementsByClassName('list-card-title');
   for (var i = 0; i < cards.length; i++) {
@@ -18,5 +9,4 @@ function markdownAll() {
   }
   setTimeout(markdownAll, 500);
 }
-
 markdownAll();
