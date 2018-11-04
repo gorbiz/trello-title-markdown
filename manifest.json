@@ -9,7 +9,14 @@
     "matches": [
       "*://trello.com/b/*"
     ],
-    "js": ["content.js"]
+    "css": [
+      "content.css"
+    ],
+    "js": [
+      "gator.min.js",
+      "markdown-it.min.js",
+      "content.js"
+    ]
   }],
   "icons": {
     "16": "icon16.png",

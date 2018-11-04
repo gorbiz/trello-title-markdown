@@ -1,12 +1,24 @@
-function markdownAll () {
-  var cards = document.getElementsByClassName('list-card-title')
-  for (var i = 0; i < cards.length; i++) {
-    cards[i].innerHTML = cards[i].innerHTML
-      .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-      .replace(/\*(.+?)\*/g, '<em>$1</em>')
-      .replace(/`(.+?)`/g, '<code>$1</code>')
-      .replace(/~~(.+?)~~/g, '<strike>$1</strike>')
+(() => {
+  const INTERVAL = 1000;
+  const markdown = window.markdownit({html: true, linkify: true});
+
+  setInterval(markdownAll, INTERVAL);
+
+  function markdownAll() {
+    document.querySelectorAll('.list-card-title').forEach(markdownTitle);
   }
-  setTimeout(markdownAll, 500)
-}
-markdownAll()
+
+  function markdownTitle(title) {
+    const rendered = markdown.render(title.innerHTML);
+
+    if (rendered !== title.innerHTML) {
+      title.innerHTML = rendered;
+      window.Gator(title).on('click', 'a', handleTitleLink);
+    }
+  }
+
+  function handleTitleLink(e) {
+    e.stopPropagation();
+    this.target = '_blank';
+  }
+})();
